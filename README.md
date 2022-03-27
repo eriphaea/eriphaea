@@ -2,7 +2,7 @@
 
 <hr>
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=mokuteki225&count_private=true">
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=eriphaea&count_private=true">
 <img width="50%" align="right" src="https://media.giphy.com/media/UV4rSwlTM7mnRa5l4o/giphy.gif">
 
 My name is Zakhar and i am Full-stack JavaScript developer.
